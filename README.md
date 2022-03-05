@@ -2,4 +2,4 @@
 
 [Link](https://errchh.github.io)
 
-![screenshot](/assets/images/screenshot.png)
+![screenshot](/image/screenshot.png)
