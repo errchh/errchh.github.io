@@ -1,8 +1,11 @@
-site_name: Eric Chan 
+site_name: Eric Chan
 nav:
-  - Home: index.md
-  - Project: project.md
-theme: 
+  - About: index.md
+  - Key Projects:
+      - Gen AI Product Tagging: gen-ai-tagging.md
+      - Gen AI Skincare Classification: gen-ai-classification-skincare.md
+      - Counterfeit Clothing Detection: counterfeit-classification.md
+theme:
   name: material
   language: en
   palette:
@@ -15,3 +18,9 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.sections
+plugins:
+  - search:
+      enabled: false
+markdown_extensions:
+  - abbr
+  - admonition
