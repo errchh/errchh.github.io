@@ -1,0 +1,17 @@
+site_name: Eric Chan 
+nav:
+  - Home: index.md
+  - Project: project.md
+theme: 
+  name: material
+  language: en
+  palette:
+    primary: white
+  font:
+    text: "IBM Plex Sans"
+    code: "IBM Plex Mono"
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
