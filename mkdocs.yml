@@ -22,9 +22,6 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.sections
-plugins:
-  - search:
-      enabled: false
 markdown_extensions:
   - abbr
   - admonition
