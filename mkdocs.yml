@@ -1,4 +1,8 @@
 site_name: Eric Chan
+site_url: https://errchh.github.io/
+repo_url: https://github.com/errchh/errchh.github.io
+edit_uri: edit/main/docs/
+base_url: /errchh.github.io/
 nav:
   - About: index.md
   - Key Projects:
