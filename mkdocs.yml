@@ -15,13 +15,13 @@ theme:
   palette:
     primary: white
   font:
-    text: "IBM Plex Sans"
-    code: "IBM Plex Mono"
+    text: "Martian Mono"
+    code: "Martian Mono"
   features:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
-    - navigation.sections
+#    - navigation.sections
 markdown_extensions:
   - abbr
   - admonition
