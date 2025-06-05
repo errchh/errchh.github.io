@@ -1,14 +1,16 @@
 site_name: Eric Chan
 site_url: https://errchh.github.io/
-repo_url: https://github.com/errchh/errchh.github.io
-edit_uri: edit/main/docs/
+#repo_url: https://github.com/errchh/errchh.github.io
+#edit_uri: edit/main/docs/
 base_url: /errchh.github.io/
+repo_name: errchh
 nav:
-  - About: index.md
-  - Key Projects:
-      - Gen AI Product Tagging: gen-ai-tagging.md
-      - Gen AI Skincare Classification: gen-ai-classification-skincare.md
-      - Counterfeit Clothing Detection: counterfeit-classification.md
+  - Backgrounds: index.md
+  - AI Projects:
+      - p1: product_tagging.md
+      - p2: skincare_classification.md
+      - p3: ipr_check.md
+  - Side Projects: commercial_image.md
 theme:
   name: material
   language: en
@@ -21,7 +23,14 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.footer
 #    - navigation.sections
+  icon:
+    repo: fontawesome/brands/github
+extra:
+  social:
+    - icon: fontawesome/brands/github 
+      link: https://github.com/errchh
 markdown_extensions:
   - abbr
   - admonition

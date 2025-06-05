@@ -1,4 +1,8 @@
-# Welcome to MkDocs
+# Eric Chan 
+
+## Qualifications 
+
+## Tech Stacks 
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
