@@ -1,4 +1,8 @@
+# System files
 .DS_Store
+
+# Virtual environments
+.venv/
 
 # Ignore everything in the site directory except the .nojekyll file
 # This allows GitHub Pages to properly serve the site

@@ -4,6 +4,8 @@ site_url: https://errchh.github.io/
 #edit_uri: edit/main/docs/
 base_url: /errchh.github.io/
 repo_name: errchh
+
+
 nav:
   - Backgrounds: index.md
   - AI Projects:
@@ -11,6 +13,8 @@ nav:
       - p2: skincare_classification.md
       - p3: ipr_check.md
   - Side Projects: commercial_image.md
+
+
 theme:
   name: material
   language: en
@@ -27,10 +31,14 @@ theme:
 #    - navigation.sections
   icon:
     repo: fontawesome/brands/github
+
+
 extra:
   social:
     - icon: fontawesome/brands/github 
       link: https://github.com/errchh
+
+
 markdown_extensions:
   - abbr
   - admonition
