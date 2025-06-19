@@ -1,6 +1,6 @@
 # Eric Chan 
 
-## Qualifications 
+## q 
 
 ## Tech Stacks 
 
