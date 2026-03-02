@@ -1,7 +1,14 @@
 ---
-icon: lucide/rocket
+icon: lucide/scan-face
 ---
 
 # About
 
-## Contact
+## 10 sec intro
+
+hello
+
+## Highlights
+
+hackathon winner
+
