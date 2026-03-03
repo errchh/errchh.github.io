@@ -274,9 +274,9 @@ toggle.name = "Switch to light mode"
 # of suitably licensed fonts. There are options for a normal text font and for
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
-#[project.theme.font]
-#text = "IBM Plex Sans"
-#code = "IBM Plex Mono"
+[project.theme.font]
+text = "JetBrains Mono"
+code = "JetBrains Mono"
 
 # ----------------------------------------------------------------------------
 # You can configure your own logo to be shown in the header using the "logo"
