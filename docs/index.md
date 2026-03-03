@@ -4,7 +4,7 @@ icon: lucide/scan-face
 
 # About
 
-## 10-sec intro
+## 10-sec Intro
 
 hello
 

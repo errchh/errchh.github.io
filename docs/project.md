@@ -2,6 +2,6 @@
 icon: lucide/square-terminal
 ---
 
-# Recent projects
+# Recent Projects
 
 project
