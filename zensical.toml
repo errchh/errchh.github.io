@@ -275,6 +275,9 @@ toggle.name = "Switch to light mode"
 # a monospaced font used in code blocks.
 # ----------------------------------------------------------------------------
 [project.theme.font]
+#text = "Rubik"
+#text = "Lexend"
+#text = "Overpass"
 text = "JetBrains Mono"
 code = "JetBrains Mono"
 

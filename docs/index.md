@@ -12,3 +12,5 @@ hello
 
 hackathon winner
 
+- add robots.txt
+- add llm.txt
