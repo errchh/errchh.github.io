@@ -279,6 +279,8 @@ toggle.name = "Switch to light mode"
 #text = "Lexend"
 #text = "Overpass"
 text = "JetBrains Mono"
+#text = "Crimson Pro"
+#text = "Sedan"
 code = "JetBrains Mono"
 
 # ----------------------------------------------------------------------------
