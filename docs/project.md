@@ -23,6 +23,9 @@ Countdown timer web app in space
 
 2025
 
+PyCon Hong Kong 
+sponsorship and marketing volunteer 
+
 hypers-crew 
 An agentic workflow POC of writing hypersonalised message using e-commerce customer behavioural data. 
 
