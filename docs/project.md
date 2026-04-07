@@ -12,7 +12,7 @@ Agent skills for Web3 ERC-8004 and x402 ChaosChain python SDK.
 
 https://github.com/errchh/chaoschain-sdk-skills
 
-### aay - All Around You
+### aay -- All Around You
 
 Agent skills for Hong Kong cinema screening and ticketing. 
 
@@ -46,7 +46,7 @@ https://github.com/errchh/countdown
 
 # 2025
 
-### PyCon Hong Kong 
+### PyCon Hong Kong -- Tech conference 
 
 Sponsorship and marketing volunteer. 
 

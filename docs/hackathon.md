@@ -8,7 +8,7 @@ icon: lucide/brain-circuit
 
 ### Conensus Hong Kong 
 
-tradeclaw -- The OpenClaw for crypto trading real time data analysis. 
+tradeclaw -- The OpenClaw for cryptocurrency trading real-time data analysis. 
 
 https://github.com/errchh/tradeclaw 
 
@@ -22,9 +22,9 @@ https://github.com/errchh/aws-ai-hackathon-autoops
 
 # 2025
 
-### WADA prohibited List compliance agent
+### WADA prohibited list compliance agent
 
-Google agent development kit hackathon 2025 - Automation of complex workflow catagory. 
+Google agent development kit hackathon 2025 -- Automation of complex workflow catagory. 
 
 https://github.com/errchh/wada-compliance-agent 
 
