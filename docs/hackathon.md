@@ -18,6 +18,8 @@ AutoOps -- E-commerce retail optimisation at SKU level.
 
 https://github.com/errchh/aws-ai-hackathon-autoops
 
+//
+
 # 2025
 
 ### WADA prohibited List compliance agent
@@ -28,7 +30,7 @@ https://github.com/errchh/wada-compliance-agent
 
 ## Global Game Jam
 
-Bubble Blitz -- product owner. 
+Bubble Blitz -- as Product Owner. 
 
-- audience's choice award 
-- best family game award 
+- Audience's Choice Award 
+- Best Family Game Award 

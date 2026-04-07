@@ -14,7 +14,7 @@ https://github.com/errchh/chaoschain-sdk-skills
 
 ### aay - All Around You
 
-Hong Kong cinema screening and ticketing agent skills. 
+Agent skills for Hong Kong cinema screening and ticketing. 
 
 https://github.com/errchh/aay
 
@@ -41,6 +41,8 @@ https://github.com/errchh/autotext
 Countdown timer web app in space. 
 
 https://github.com/errchh/countdown
+
+//
 
 # 2025
 
