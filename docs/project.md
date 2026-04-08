@@ -8,7 +8,7 @@ icon: lucide/square-terminal
 
 ### Agentic RAG with MCP -- MPF employer obligation handbook 
 
-The MPF Employer RAG is an agentic retrieval-augmented generation system designed to answer questions about Mandatory Provident Fund (MPF) employer obligations in Hong Kong. The system combines a reasoning agent with local vector storage and external API connectivity to provide accurate, context-aware responses.
+An agentic RAG system designed to de-risk HR operations by ensuring strict compliance with Hong Kong’s Mandatory Provident Fund (MPF) employer obligations. 
 
 https://github.com/errchh/mpf-employer-rag 
 
