@@ -18,7 +18,7 @@ AutoOps -- E-commerce retail optimisation at SKU level.
 
 https://github.com/errchh/aws-ai-hackathon-autoops
 
-//
+---
 
 # 2025
 
@@ -28,7 +28,7 @@ Google agent development kit hackathon 2025 -- Automation of complex workflow ca
 
 https://github.com/errchh/wada-compliance-agent 
 
-## Global Game Jam
+### Global Game Jam
 
 Bubble Blitz -- as Product Owner. 
 

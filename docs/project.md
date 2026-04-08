@@ -6,6 +6,12 @@ icon: lucide/square-terminal
 
 # 2026
 
+### Agentic RAG with MCP -- MPF employer obligation handbook 
+
+The MPF Employer RAG is an agentic retrieval-augmented generation system designed to answer questions about Mandatory Provident Fund (MPF) employer obligations in Hong Kong. The system combines a reasoning agent with local vector storage and external API connectivity to provide accurate, context-aware responses.
+
+https://github.com/errchh/mpf-employer-rag 
+
 ### ChaosChain SDK agent skills 
 
 Agent skills for Web3 ERC-8004 and x402 ChaosChain python SDK. 
@@ -42,7 +48,7 @@ Countdown timer web app in space.
 
 https://github.com/errchh/countdown
 
-//
+---
 
 # 2025
 
