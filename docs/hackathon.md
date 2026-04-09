@@ -12,7 +12,7 @@ tradeclaw -- The OpenClaw for cryptocurrency trading real-time data analysis.
 
 https://github.com/errchh/tradeclaw 
 
-## Hong Kong Institute of Architects -- Architech RAG Hackathon 
+## Hong Kong Institute of Architects -- ArchiTech RAG Hackathon 
 
 Winner -- Teamed up with architect Toby Yiu, scaffolded a RAG AI agent for the Code of Practice on Fire Safety. With 90% accuracy with eval against architect professional assessment multiple choice exam questions. 
 
