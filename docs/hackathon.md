@@ -6,17 +6,17 @@ icon: lucide/brain-circuit
 
 # 2026 
 
-### Conensus Hong Kong -- Web3 Agent Harness 
+## Conensus Hong Kong -- Web3 Agent Harness 
 
 tradeclaw -- The OpenClaw for cryptocurrency trading real-time data analysis. 
 
 https://github.com/errchh/tradeclaw 
 
-### Hong Kong Institute of Architects -- Architech RAG Hackathon 
+## Hong Kong Institute of Architects -- Architech RAG Hackathon 
 
 Winner -- Teamed up with architect Toby Yiu, scaffolded a RAG AI agent for the Code of Practice on Fire Safety. With 90% accuracy with eval against architect professional assessment multiple choice exam questions. 
 
-### AWS Hong Kong AI Hackathon -- E-commerce 
+## AWS Hong Kong AI Hackathon -- E-commerce 
 
 AutoOps -- E-commerce retail optimisation at SKU level. 
 
@@ -26,13 +26,13 @@ https://github.com/errchh/aws-ai-hackathon-autoops
 
 # 2025
 
-### WADA prohibited list compliance AI agent
+## WADA prohibited list compliance AI agent
 
 Google agent development kit hackathon 2025 -- Automation of complex workflow catagory. 
 
 https://github.com/errchh/wada-compliance-agent 
 
-### Global Game Jam
+## Global Game Jam
 
 Bubble Blitz -- as Product Owner. 
 
