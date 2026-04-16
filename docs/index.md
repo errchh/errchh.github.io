@@ -12,6 +12,10 @@ icon: lucide/scan-face
 
 ## Highlights
 
+### Tech Conference Speaker 
+
+- AgentCon 2026, Hong Kong chapter -- AI project timeline & de-risking factors 
+
 ### Hackathon Winner 
 
 - Hong Kong Institute of Architects -- ArchiTech RAG Hackathon 

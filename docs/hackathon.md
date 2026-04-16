@@ -36,5 +36,5 @@ https://github.com/errchh/wada-compliance-agent
 
 Bubble Blitz -- as Product Owner. 
 
-- Audience's Choice Award 
-- Best Family Game Award 
+- Audience's Choice Award winner 
+- Best Family Game Award winner 
