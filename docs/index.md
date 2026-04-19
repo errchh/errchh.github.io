@@ -26,8 +26,10 @@ icon: lucide/scan-face
 - PyCon HK sponsorship & marketing volunteer 
 - HKPUG event organiser 
 
-### Kendo Athlete
+### Fun Facts
 
-- Ex-Hong Kong Kendo Squad representative 
+- Kendo Athlete -- Ex-Hong Kong Kendo Squad representative 
+- Gliding Club member -- University of Bath 
+- Fast walker 
 
 
