@@ -1,6 +1,7 @@
 ---
 icon: lucide/scan-face
 ---
+# About
 
 # E-commerce operations specialist. Passionate about de-risking, automation, and scaling with agentic AI.
 
