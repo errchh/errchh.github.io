@@ -6,6 +6,12 @@ icon: lucide/brain-circuit
 
 # 2026 
 
+## Google Developer Group -- AI-driven defense
+
+SMSGuard -- Privacy first on-device AI classifer for SMS phishing. Hong Kong spam context, multilangal -- Local traditional Chinese, mainland simplified Chinese, Indonesian (Bahasa) and Filipino (Tagalog).
+
+https://www.kaggle.com/competitions/gemma-4-lab-ai-driven-defense-offline-privacy/writeups/new-writeup-1784964796731 
+
 ## Concensus Hong Kong -- Web3 Agent Harness 
 
 tradeclaw -- The OpenClaw for cryptocurrency trading real-time data analysis. 

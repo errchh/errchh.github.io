@@ -3,7 +3,7 @@ icon: lucide/scan-face
 ---
 # About
 
-# E-commerce operations specialist. Passionate about de-risking, automation, and scaling with agentic AI.
+# E-commerce digital solution. Passionate about de-risking, automation, and scaling with agentic AI.
 
 # Python / Agentic RAG / LangChain / Agent Harness / Docker / Langfuse Observability / MCP / Agent Skills / Web3 / ERC-8004 / x402 / SQL 
 
