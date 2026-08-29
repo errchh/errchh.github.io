@@ -1,0 +1,24 @@
+# Eric Chan
+> Digital Solution AI projects in MNC E-commerce. Builds and scales automation and agentic AI solutions.
+> LinkedIn: https://www.linkedin.com/in/ericchanwork 
+
+## Candidate Summary
+
+- Focus: de-risking operations, automation, and scaling with agentic AI.
+- Core skills: Python, Agentic RAG, LangChain, agent harnesses, Docker, Langfuse observability, MCP, agent skills, Web3, ERC-8004, x402, SQL.
+- Experience highlights: speaker at AgentCon 2026, hackathon winner with the Hong Kong Institute of Architects, Global Game Jam product ownership, PyCon HK and HKPUG volunteer/organiser.
+- Background indicator: ex-Hong Kong Kendo Squad representative; University of Bath gliding club member.
+
+## Pages
+
+### About
+- `/index.html`
+- Short professional profile and highlights.
+
+### Hackathons
+- `/hackathon/index.html`
+- Competition outcomes: Concensus Hong Kong tradeclaw, ArchiTech RAG hackathon winner, AWS Hong Kong AI AutoOps, WADA compliance AI agent, Global Game Jam Bubble Blitz.
+
+### Recent Projects
+- `/project/index.html`
+- Open projects: MPF employer obligation RAG, ChaosChain SDK agent skills, aay cinema/ticketing agent skills, hk-open-data agent skills, postman, autotext, countdown, hypers-crew.

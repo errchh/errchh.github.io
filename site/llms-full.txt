@@ -1,0 +1,43 @@
+# Eric Chan 
+> LinkedIn: https://www.linkedin.com/in/ericchanwork 
+
+## Overview
+
+Eric Chan works in digital solution (AI projects) in a MNC e-commerce who focuses on de-risking business operations, automation, and scaling systems with agentic AI.
+
+## Key Skills
+
+- Languages and platforms: Python, SQL, Docker.
+- AI/agent stack: Agentic RAG, LangChain, agent harnesses, MCP, agent skills, Langfuse observability.
+- Domain experience: e-commerce operations, compliance automation, Web3 integrations.
+- Protocols and ecosystems: ERC-8004, x402, data.gov.hk open data APIs.
+- Soft skills: product ownership, event organisation, technical speaking, community volunteering.
+
+## Selected Achievements
+
+- Speaker: AgentCon 2026 Hong Kong chapter on AI project timelines and de-risking factors.
+- Winner: Hong Kong Institute of Architects ArchiTech RAG Hackathon. Teamed with an architect to scaffold a RAG AI agent for fire safety code compliance; achieved 90% accuracy against professional exam questions.
+- Winner: Global Game Jam Audience's Choice and Best Family Game awards as Product Owner for Bubble Blitz.
+- Volunteer: PyCon HK sponsorship and marketing; HKPUG event organiser.
+- Athlete/community: ex-Hong Kong Kendo Squad representative; University of Bath gliding club member.
+
+## Selected Projects
+
+- MPF employer obligation RAG: agentic RAG system for Hong Kong Mandatory Provident Fund compliance in HR operations.
+- ChaosChain SDK agent skills: agent skills for Web3 ERC-8004 and x402.
+- aay: agent skills for Hong Kong cinema screening and ticketing.
+- hk-open-data: agent skills for data.gov.hk open data APIs.
+- postman: TUI social media post generator for Hong Kong Python User Group.
+- autotext: static text expander web app with client-side LocalStorage.
+- countdown: countdown timer web app.
+- hypers-crew: agentic workflow POC for personalised messaging using e-commerce behavioural data.
+- tradeclaw: OpenClaw-style cryptocurrency trading real-time data analysis.
+- AutoOps: e-commerce retail optimisation at SKU level.
+- WADA compliance agent: automation of complex workflow for prohibited list compliance.
+- Bubble Blitz: game project delivered as Product Owner.
+
+## Pages
+
+- `/index.html` -- About and highlights.
+- `/hackathon/index.html` -- Hackathon outcomes.
+- `/project/index.html` -- Recent projects.
