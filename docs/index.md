@@ -17,9 +17,9 @@ icon: lucide/scan-face
 
 - AWS Certified AI Practitioner
 - PMI Introduction to Cognitive Project Management in AI (CPMAI)
-- HKU SPACE — AI and ML with Business and Financial Applications
-- Hugging Face — Fundamentals of Agents
-- IBM — Enterprise Design Thinking Practitioner
+- HKU SPACE AI and ML with Business and Financial Applications
+- Hugging Face Fundamentals of Agents
+- IBM Enterprise Design Thinking Practitioner
 
 ---
 
