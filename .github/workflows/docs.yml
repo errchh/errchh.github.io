@@ -23,7 +23,11 @@ jobs:
       - run: pip install zensical
       - run: zensical build --clean
       - name: Make docs LLM ready
+        env:
+          MODEL_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         uses: demodrive-ai/llms-txt-action@v1
+        with:
+          model_name: openrouter/google/gemma-3-27b-it:free
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
