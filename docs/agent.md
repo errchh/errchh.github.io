@@ -1,5 +1,5 @@
 ---
-icon: lucide/brain-circuit
+icon: lucide/bot-message-square
 ---
 
 # AI agent readme
