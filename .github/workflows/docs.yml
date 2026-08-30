@@ -27,7 +27,7 @@ jobs:
           MODEL_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
         uses: demodrive-ai/llms-txt-action@v1
         with:
-          model_name: openrouter/z-ai/glm-5.2:free
+          model_name: openrouter/openrouter/free
       - uses: actions/upload-pages-artifact@v4
         with:
           path: site
