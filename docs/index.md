@@ -3,11 +3,11 @@ icon: lucide/scan-face
 ---
 # About
 
-## Digital Solution (AI Projects) — MNC Beauty E-commerce Global Retail — Hong Kong
+# Digital Solution (AI Projects) — MNC Beauty E-commerce Global Retail — Hong Kong
 
-Implemented AI and digital solutions within an MNC e-commerce marketplace, focusing on de-risking, automating and scaling operations via agentic AI.
+# Implemented AI and digital solutions within an MNC e-commerce marketplace, focusing on de-risking, automating and scaling operations via agentic AI.
 
-**Stack:** Python / Agentic RAG / LangChain / Agent Harness / Docker / Langfuse Observability / MCP / Agent Skills / Web3 / ERC-8004 / x402
+## Stack: Python / Agentic RAG / LangChain / Agent Harness / Docker / Langfuse Observability / MCP / Agent Skills / Web3 / ERC-8004 / x402
 
 [LinkedIn — ericchanwork](https://www.linkedin.com/in/ericchanwork) · [Portfolio & Recent Works](https://errchh.github.io/) · [GitHub — errchh](https://github.com/errchh)
 
